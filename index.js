@@ -104,8 +104,6 @@ let downloadTemplate = (url, project) => {
   })
 }
 
-let mapAction =
-
 // 初始化命令行（self_cli_520 init my_template）
 program
     .command('init <project>')

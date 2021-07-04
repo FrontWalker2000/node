@@ -1,6 +1,6 @@
 {
   "name": "self_cli_520",
-  "version": "1.0.1",
+  "version": "1.0.12",
   "description": "自定义脚手架",
   "main": "index.js",
   "dependencies": {
@@ -20,5 +20,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrontWalker2000/self_cli_520.git"
+  },
+  "homepage": "https://github.com/FrontWalker2000/self_cli_520#readme"
 }
