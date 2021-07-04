@@ -10,7 +10,7 @@
   > - [x] handleBars 编译文件包
 
 ## 视频了解
-<a href="https://www.zhisheji.com/yuanchuang/1568437.html" target="_blank" alt="nodejs+mysql">初识self_cli_520脚手架</a> |
+<a href="https://www.zhisheji.com/yuanchuang/1575426.html" target="_blank" alt="nodejs+mysql">初识self_cli_520脚手架</a> |
 <a href="https://www.zhisheji.com/yuanchuang/1571418.html" target="_blank" alt="nodejs+mysql">脚手架涉及到的包说明</a> |
 <a href="https://www.zhisheji.com/yuanchuang/1571418.html" target="_blank" alt="nodejs+mysql">编写脚手架</a>
 
@@ -18,7 +18,7 @@
 - [x] self_cli_520 -h | --help 查看帮助
 - [x] self_cli_520 -V | --version 查看版本号
 - [x] self_cli_520 list 查看所有模版
-- [x] self_cli_520 init <template-name> <project-name> 初始化项目
+- [x] self_cli_520 init <project-name> 初始化项目
 
 ## 安装步骤 ##
 > `npm install  self_cli_520`
